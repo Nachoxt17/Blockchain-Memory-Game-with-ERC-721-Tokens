@@ -1,8 +1,8 @@
 {
-  "name": "blockchain-game",
+  "name": "blockchain-memory-game-with-erc-721-tokens",
   "version": "0.1.0",
-  "description": "Blockchain memory game",
-  "author": "gregory@dappuniversity.com",
+  "description": "Blockchain Memory Game with Collectable ERC-721 Prizes",
+  "author": "ignacioceaglio@protonmail.com",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
     "babel-polyfill": "6.26.0",
@@ -37,5 +37,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+"devDependencies": {
+  "gh-pages": "^2.2.0",
+  "prettier": "^2.2.1",
+  "prettier-plugin-solidity": "^1.0.0-beta.2"
+}
 }
