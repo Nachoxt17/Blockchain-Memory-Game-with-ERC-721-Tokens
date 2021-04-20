@@ -1,5 +1,5 @@
 # Blockchain-Memory-Game-with-ERC-721-Tokens
-![Final Result](https://github.com/Nachoxt17/Uncensorable-Video-Sharing-Platform-with-Blockchain-and-I.P.F.S-Storage/blob/main/Final-Result.png?raw=true)
+![Final Result](https://github.com/Nachoxt17/Blockchain-Memory-Game-with-ERC-721-Tokens/blob/main/Blockchain-Memory-Game-Project.png?raw=true)
 
 +-Ethereum Blockchain Memory Game made with Solidity. You can connect your Metamask Wallet and play the game and if you find a match, an ERC-721 Non Fungible Token with the image of the 2 images you discovered will be transferred to your Wallet.
 
