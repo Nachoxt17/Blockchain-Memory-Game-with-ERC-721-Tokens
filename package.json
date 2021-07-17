@@ -1,7 +1,7 @@
 {
   "name": "blockchain-memory-game-with-erc-721-tokens",
   "version": "0.1.0",
-  "description": "Blockchain Memory Game with Collectable ERC-721 Prizes",
+  "description": "Blockchain Memory Game with Collectable ERC-721 Prizes. Made with This Tutorial in Minute 04:28:00 :_ https://www.youtube.com/watch?v=XLahq4qyors&list=PL0FXkz5ILg9aaZuEB4RUOClau9RBRJVZ3&index=13&t=15861s .",
   "author": "ignacioceaglio@protonmail.com",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
